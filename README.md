@@ -1,3 +1,5 @@
 ## Timing Fitness Blog
 
-[https://timingfit.com/blog](https://timingfit.com/blog)
+Power by [Hexo](https://hexo.io)
+[Icarus](https://github.com/ppoffice/hexo-theme-icarus)
+Timing Finess Blog -> [Check](https://blog.timingfit.com)
