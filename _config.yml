@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Nanjing Timing Fitness Products
+title: Blog | Timing Fitness
 subtitle:
 description:
-keywords:
+keywords: Timing Fitness, China Fitness Equipment Manufacturer
 author: Timing Fitness
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.timingfit.com 
+url: https://blog.timingfit.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

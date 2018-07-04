@@ -1,9 +1,12 @@
 ---
 title: How is an excellent Olympic barbell bar made？
 date: 2018-06-08 13:52:01
+banner: https://farm1.staticflickr.com/920/43169468361_ddecf0f708_k.jpg
 tags:
 - Production Process
 - Barbell
+categories:
+- Products
 ---
 ## How to define the excellence?
 * Large loading rate
@@ -26,6 +29,8 @@ Olympic bars are usually made of steel and for different positioning requirement
 ![compare steel](/images/olympic-bars-made/compare-steel.png)
 
 Excellent Olympic bars need alloy steel because the addition of other metal elements can make the steel have high strength and good toughness.
+
+<!--more-->
 
 ### Quenching
 ![quenching](/images/olympic-bars-made/quenching.jpeg)
