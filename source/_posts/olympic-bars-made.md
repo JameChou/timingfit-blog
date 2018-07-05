@@ -1,5 +1,5 @@
 ---
-title: Fitness Equpiment Manufacturing - Olympic Barbell
+title: Fitness Equipment Manufacturing - Olympic Barbell
 date: 2018-06-08 13:52:01
 banner: https://farm1.staticflickr.com/920/43169468361_ddecf0f708_k.jpg
 tags:
