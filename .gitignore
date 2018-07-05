@@ -7,3 +7,4 @@ public/
 .deploy*/
 blog.zip
 .vscode
+*.swp
