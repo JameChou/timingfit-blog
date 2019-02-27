@@ -16,13 +16,13 @@ We use the best technology to manufacture our Yoga Balls, we use rotational mold
 
  During the  manufacturing process called rotational molding in which we inject the PVC rolling material into a mold. We then put the mold to an oven and let the liquid flow evenly over the whole mold using a method that combines both rotation and revolution. 
 
-![rotation molding](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/rotational-modling.png)
+![rotation molding](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/rotation-modling.png)
 
 <!--more-->
 
 The process of manufacturing our yoga balls through rotational molding is a straightforward procedure to ensure the best quality Yoga exercise in the industry. The process starts with injecting liquid material into the mold. We then bake the material in our industrial oven, letting the raw material through settle evenly throughout the mold using rotation and revolution. We then back the material at an elevated level of 200 degrees Celsius. After the yoga balls are baked, they then go through a cooling process.
 ![inject material](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/Injection.png)
-![inject material](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/Injection2.png)
+![inject material](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/Injection-2.png)
 
 To cool the exercise balls we put the mold into water to cool it, and then we open the mold to remove the yoga ball. After the cooling process, we then seal the yoga ball. The yoga ball freshly taken out of the oven is still hot, the silicone plug is easily inserted in hole position, when the ball cools the plug is set in place and is hard to remove or displace. Therefore, creating the perfect sealing effect. 
 ![remove yoga ball](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/ball-rotational-moulding/remove-ball.png)

@@ -26,7 +26,7 @@ There are many processes to consider when choosing Olympic Barbells. We want our
 
 ### Types of Plating 
 
-![surface treatment](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/surface-treatment.jpeg)
+![surface treatment](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/surface-treatment.jpg)
 **Chrome VS Zinc**: Chrome can improve the surface hardness, is beautiful and rust resistant. Zinc has good chemical stability. Zinc is an active metal and easily reacts with the acid, so its corrodes easily. 
 
 **Chrome VS Electrophoresis**: The surface of electrophoresis is non - metallic, environmentally friendly with a better hand feeling, but is a more delicate barbell. On the contrary with chrome plating, the plating surface is a metal coating for durability. 
@@ -41,4 +41,4 @@ There are generally two types of bearings for the structure of Olympic barbell b
 ### Testing
 
 The finished products need to undergo professional testing in order to ensure that the quality of the products can really pass the strict standard.
-![max loading rate test](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/testing-max-loading.png)
+![max loading rate test](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/testing-max-loading.jpg)
