@@ -10,7 +10,7 @@ categories:
 - Products
 ---
 Olympic bars are usually made of steel and for different positioning requirements, the quality of steel used is also different. There are several kinds of steel with varying strength and qualities. We manufacture our Olympic barbells with Q235(A3) No.45 Steel Spring Steel Alloy. We have chosen this particular steel because excellent Olympic barbells need alloy steel because the addition of other metal elements will make the steel Olympic barbell have a higher long term durability. 
-![compare steel](/images/olympic-bars-made/compare-steel.png)
+![compare steel](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/compare-steel.png)
 
 There are many processes to consider when choosing Olympic Barbells. We want our customers to be aware of the terminology so they can ensure they are choosing quality barbells.
 
@@ -18,7 +18,7 @@ There are many processes to consider when choosing Olympic Barbells. We want our
 
 ## Olympic Barbell manufacturing Terminology
 **Quenching**: If the purchased materials cannot meet the ideal standard, then the steel must be quenched to strengthen its strength and resilience.
-![quenching](/images/olympic-bars-made/Quenching.jpeg)
+![quenching](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/quenching.jpeg)
 
 <!--more-->
 
@@ -26,7 +26,7 @@ There are many processes to consider when choosing Olympic Barbells. We want our
 
 ### Types of Plating 
 
-![surface treatment](/images/olympic-bars-made/surface treatment.jpg)
+![surface treatment](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/surface-treatment.jpeg)
 **Chrome VS Zinc**: Chrome can improve the surface hardness, is beautiful and rust resistant. Zinc has good chemical stability. Zinc is an active metal and easily reacts with the acid, so its corrodes easily. 
 
 **Chrome VS Electrophoresis**: The surface of electrophoresis is non - metallic, environmentally friendly with a better hand feeling, but is a more delicate barbell. On the contrary with chrome plating, the plating surface is a metal coating for durability. 
@@ -36,9 +36,9 @@ There are many processes to consider when choosing Olympic Barbells. We want our
 ### Bearing Structure
 There are generally two types of bearings for the structure of Olympic barbell bars: Needle bearings and Ball bearings. The low-end Olympic barbells basically have no bearings and are fixed by a roller, thus saving the process cost,  as a result, wrist injuries are common when lifting with these barbells. The most common is technique is needle bearing structure. The number of needle bearings can vary (2,4,6,8,10). The more bearings, the better the rolling effect are with the equipment. 
 
-![needle bearing](/images/olympic-bars-made/needle-bearing.png)
+![needle bearing](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/needle-bearing.png)
 
 ### Testing
 
 The finished products need to undergo professional testing in order to ensure that the quality of the products can really pass the strict standard.
-![max loading rate test](/images/olympic-bars-made/testing-max-loading.jpg)
+![max loading rate test](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/olympic-bars-made/testing-max-loading.png)
