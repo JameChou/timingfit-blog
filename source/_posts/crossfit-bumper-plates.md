@@ -1,7 +1,7 @@
 ---
 title: Just how to Choose the Right Bumper Plates
 date: 2018-07-15 11:08:23 
-banner: https://farm1.staticflickr.com/920/43169468361_ddecf0f708_k.jpg
+banner: https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/crossfit-bumper-plates/crossfit_bumper_plates_banner.jpg 
 tags:
 - Crossfit 
 - Bumper Plates
@@ -25,6 +25,7 @@ Steel plates are typically used for general toughness training. Powerlifting or 
 **Urethane-coated** steel plates are also a go-to for strength training demands. Commercial gyms regularly use these because they're better looking than raw iron, more secure, easier to carry around the health club and also are quieter.
 
 Covered plates cost closer to bumper plates, despite doing not have distinct attributes of bumpers. They can't be dropped from overhead, thus show up unsatisfactory for Olympic weight training. If they're in your price range, delight in the cleaner look than raw iron, and like the absence of clanging as well as knocking, these could be for you. Nonetheless, by investing a little bit extra in bumper plates, you'll obtain even more value.
+![Urethane Bumper Plates](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/crossfit-bumper-plates/urethane_bumper_plates_detail.jpg)
 
 #### Bumper plates
 
@@ -47,6 +48,8 @@ Bumper Plate Advantages
 Exercise Flexibility: Bumper plates additionally offer future flexibility. Great deals of athletes are returning to Olympic lifting once more. Also if you do not find yourself at a fitness degree or doing workouts that need them, you may intend to buy them currently, so you have the alternative in the future.
 **Quieter**: If you have actually ever worked out with steel, you understand how rapidly fitness centers can sound like a construction website. Regardless of just how smooth or mild you are, steel plates can sound like horrible church bells. Bumper plates do not collapse with each other like cymbals in a marching band.
 Do not feel you only need to equip your home health club with bumpers. Some garage health club owners blend 'n' match steel plates and bumpers, as each fits. If you're certain bumper plates are the very best suitable for you, proceed as well as read about the numerous bumper plate kinds.
+
+![Rubber Bumper Plates](https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/crossfit-bumper-plates/rubber_bumper_plates.jpg)
 
 #### Technique Plates
 
