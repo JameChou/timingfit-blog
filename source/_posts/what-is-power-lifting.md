@@ -1,7 +1,7 @@
 ---
 title: Powerlifting Workout 
 date: 2018-09-11 15:14:23
-banner:  
+banner: https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/power-lifting/powerlifting.png 
 tags:
 - Crossfit
 - Powerlifting
@@ -18,6 +18,7 @@ The sport is an expanding one, divided into weight classes and also welcoming pa
 There are two 'styles' of powerlifting-- raw and also equipped. Individuals who select equipped wear bench t-shirts and also squat fits, among other expert things, to help them relocate one of the most weight they perhaps can. Raw (classic in the UK) only allows knee sleeves, a belt, wrist covers, chalk and singlets-- no other valuable tools is enabled.
 
 Whether you intend to complete in the sport or just want to educate for strength, a powerlifting design training plan is the perfect way to increase your toughness (as well as, if you eat enough during the strategy, your size).
+<!-- more -->
 
 #### Benefits Of Powerlifting Training
 Powerlifting training strategies are fixated the three major substance lifts. These lifts recruit one of the most muscular tissues as well as placed the most anxiety on your central nerve system-- which subsequently indicates they release the most hormones.
