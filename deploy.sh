@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-zip -r blog.zip public
-cd /home/wwwroot
-unzip blog.zip
+hexo generate
 mv public blog
-nginx -s reload
+zip -r blog.zip blog

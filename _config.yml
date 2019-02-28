@@ -53,6 +53,9 @@ index_generator:
   per_page: 10
   order_by: -date
 
+sitemap:
+  path: sitemap.xml
+
 # Category & Tag
 default_category: uncategorized
 category_map:
