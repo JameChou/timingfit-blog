@@ -1,7 +1,8 @@
 ---
 title: Time to Lose that Fear of Lifting Weights 
 date: 2018-10-13 09:01:01
-banner: https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/time-lose-fear-lifting/banner-lose-fear-lifting.jpg
+banner: https://raw.githubusercontent.com/JameChou/timingfit-blog/master/source/images/time-to-lose-fear-lifting/banner-lose-fear-lifting.jpg
+      
 tags:
 - Powerlifting
 - Fitness Advice
